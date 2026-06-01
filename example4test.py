@@ -1,0 +1,5 @@
+for i in range (2,10):
+    for j in range(1,10):
+        print(f"{i}* {j} = {i*j}")
+    print()
+#이 코드는 구구단 출력코드입니다     
